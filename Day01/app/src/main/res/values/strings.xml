@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Day01</string>
+    <string name="app_zh">账号</string>
+    <string name="app_mm">密码</string>
+    <string name="app_dl">登录</string>
+    <string name="app_zc">注册</string>
+    <string name="app_yhm">用户名</string>
+    <string name="app_name_l">用户名</string>
+    <string name="app_yhmm">密码</string>
+    <string name="app_qryhm">确认密码</string>
+    <string name="app_yhmphone">手机号</string>
+    <string name="app_yyhm">验证码</string>
+</resources>
